@@ -1,0 +1,6 @@
+{
+  "name": "Moraes & Associados Advocacia",
+  "description": "Site institucional e plataforma de agendamento e gestão jurídica para o escritório Moraes & Associados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

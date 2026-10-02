@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+	--color-amber-50: #660101;
+	--color-amber-100: #660101;
+	--color-amber-200: #660101;
+	--color-amber-300: #660101;
+	--color-amber-400: #660101;
+	--color-amber-500: #660101;
+	--color-amber-600: #660101;
+	--color-amber-700: #660101;
+	--color-amber-800: #660101;
+	--color-amber-900: #660101;
+	--color-amber-950: #660101;
+}
